@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Directory
+
+  Created by MAC on 04/07/22.
+  
+*/
+// Messages
+
+"not_occupied" = "is not occupied";
+"occupied" = "is occupied";
+
+// Room Detials Fields
+
+"id" = "is not occupied";
+"email" = "is occupied";
+"job_title" = "Job Title";
+"favourite_color" = "Favourite color";
+
+// Alert Title
+
+"alert" = "Alert";
+
+
+// API Errors
+"request_failed" = "Request Failed";
+"invalid_data" = "Invalid Data";
+
